@@ -19,7 +19,7 @@ import org.openftc.easyopencv.OpenCvCameraFactory;
 import org.openftc.easyopencv.OpenCvCameraRotation;
 
 /**
- * RoboRaisers # 21386 Autonomous using EasyOpenCV and Park only mode
+ * RoboRaisens # 21386 Autonomous using EasyOpenCV and Park only mode
  */
 @Autonomous(name = "RoboRaiders ParkOnly Short", group = "00-Autonomous")
 public class AutoOnlyPark extends LinearOpMode{
