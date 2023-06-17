@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/pritarya/Documents/Repos/FTC/RoboRaidersFtc-8.1.1/TeamCode"
+    name=":TeamCode"
+    type="APP"
+    maven="RoboRaidersFtc-8.1.1:TeamCode:"
+    gradle="7.2.0"
+    buildFolder="build"
+    bootClassPath="/Users/pritarya/Library/Android/sdk/platforms/android-29/android.jar:/Users/pritarya/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-29"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
